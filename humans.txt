@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Julian Herrera -- julian@git.training -- @awesomejh
 
 # THANKS
 
