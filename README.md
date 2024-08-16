@@ -8,7 +8,11 @@ This is an example to show different parts of the Git Repo and various commands 
 
 ## Purpose
 
+To provide simple examples for Git training demos. 
+
 ## Deployment
+
+Deployment can be on any web server.
 
 ## How To Contribute
 
