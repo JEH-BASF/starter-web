@@ -16,3 +16,6 @@ Deployment can be on any web server.
 
 ## How To Contribute
 
+### Copyright
+
+2024 Git.Training.
